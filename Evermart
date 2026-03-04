@@ -107,3 +107,6 @@ function addToCart(name, price) {
   document.getElementById("total").textContent = total;
 }
 </script>
+
+</body>
+</html>
